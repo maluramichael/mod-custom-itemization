@@ -1,0 +1,21 @@
+[worldserver]
+
+########################################
+# mod-custom-itemization configuration
+########################################
+#
+# Ships a curated custom gear pack (item entries 9001000-9001099) sold by a new
+# vendor NPC, "Master Artificer" (creature entry 9001500). The NPC is not spawned
+# by default - spawn it with ".npc add 9001500" once you have picked a location.
+#
+# All items reuse existing client display models, so no client patch is required.
+#
+
+#
+#    CustomItemization.Enable
+#        Master on/off switch for this module. 0 = the module loads but does
+#        nothing (its SQL content still exists in the world database either way -
+#        this only gates the module's own C++ hook).
+#        Default: 1
+#
+CustomItemization.Enable = 1
