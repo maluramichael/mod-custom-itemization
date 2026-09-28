@@ -1,5 +1,10 @@
 # mod-custom-itemization
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=mod-custom-itemization)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=mod-custom-itemization)
+<!-- links:end -->
+
 An [AzerothCore](https://www.azerothcore.org/) module (WotLK 3.3.5a) that adds a small,
 curated custom gear pack sold by a new vendor NPC. No client patch is required - every
 item reuses an existing in-game display model.
